@@ -711,7 +711,7 @@ MonoBehaviour:
     prefab: {fileID: 0}
   - name: Fighter
     cost: 225
-    prefab: {fileID: 0}
+    prefab: {fileID: 3318236120055515021, guid: 366718a34a6286f48b5dd7d62f167cba, type: 3}
   - name: Monk
     cost: 225
     prefab: {fileID: 0}
